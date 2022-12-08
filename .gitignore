@@ -1,4 +1,4 @@
 .env
 
 **/*.jpg
-!/assets/*.jpg
+!/public/assets/images/*.jpg
